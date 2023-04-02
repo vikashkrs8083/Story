@@ -1,3 +1,17 @@
 this is my first file
 
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 this line added in master branch 
+=======
+this line i am adding in extra branch
+>>>>>>> extra
